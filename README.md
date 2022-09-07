@@ -53,6 +53,11 @@ https://meeting.tencent.com/dm/ZT11D9jPDrmg
   * 腾讯会议：508-480-615
 复制该信息，打开手机腾讯会议即可参与
 
-
+* 第4次课，线下：2022-09-08(星期四) 第3-4节，金银湖校区基础楼0408
+  * 课堂内容：傅里叶级数，傅里叶变换，
+  * 参考资料： 
+    * [1]数学分析下册 (华东师范大学数学系第5版) **第15章：傅里叶级数**  
+    * [2]工程数学积分变换(第5版,张元林) **第1章：Fourier变换**
+    * [3]Fourier analysis by Javier Duoandikoetxea **Chapter 1：Fourier Series and Integrals**
 
 
